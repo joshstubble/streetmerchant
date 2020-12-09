@@ -70,6 +70,7 @@ import {PlayStation} from './playstation';
 import {Pny} from './pny';
 import {ProshopDE} from './proshop-de';
 import {ProshopDK} from './proshop-dk';
+import {SamsClub} from './samsclub';
 import {Saturn} from './saturn';
 import {Scan} from './scan';
 import {SmythsToys} from './smythstoys';
@@ -160,6 +161,7 @@ export const storeList = new Map([
 	[Pny.name, Pny],
 	[ProshopDE.name, ProshopDE],
 	[ProshopDK.name, ProshopDK],
+	[SamsClub.name, Sams],
 	[Saturn.name, Saturn],
 	[Scan.name, Scan],
 	[SmythsToys.name, SmythsToys],
