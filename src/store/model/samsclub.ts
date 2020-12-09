@@ -1,14 +1,15 @@
-
 import {Store} from './store';
 
 export const SamsClub: Store = {
 	labels: {
 		inStock: {
-			container: 'li.b-product_status',
-			text: ['in stock']
+			container:
+				'[data-sticky-media-gallery] .fulfillment-add-to-cart-button',
+			text: ['add to cart']
 		},
 		maxPrice: {
-			container: '.b-price-value'
+			container:
+				'[data-sticky-media-gallery] .priceView-price .priceView-hero-price span'
 		}
 	},
 	links: [
