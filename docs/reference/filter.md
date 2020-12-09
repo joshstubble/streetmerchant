@@ -99,7 +99,7 @@ Used with the `STORES` variable.
 | PNY | US | `pny`|
 | Proshop | DE | `proshop-de`|
 | Proshop | DK | `proshop-dk`|
-| Sams Club | US | `sam` |
+| Sams Club | US | `samsclub` |
 | Saturn | DE | `saturn`|
 | Scan | UK | `scan`|
 | Smyths Toys | UK | `smythstoys`|
